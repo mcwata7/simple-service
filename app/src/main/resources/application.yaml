@@ -1,0 +1,4 @@
+spring:
+  main:
+    urls:
+      poke-url: https://pokeapi.co/api/v2/
